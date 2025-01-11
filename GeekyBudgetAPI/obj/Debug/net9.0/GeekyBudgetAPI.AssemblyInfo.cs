@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekyBudgetAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61e790864eeadbb099916d2a8bfd80f790606ddd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159bfedf981d7caa567fde31e4ded68aefe5cfe7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekyBudgetAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekyBudgetAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
